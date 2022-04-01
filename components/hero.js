@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="flex h-[80vh] justify-between mt-16 w-full">
       <div className="hidden lg:block">
-        <Image src="/aset/bghero.webp" alt="bghero" width={470} height={600} />
+        <Image src="/aset/bghero.webp" alt="bghero" width={470} height={600} priority />
       </div>
 
       <div className="flex flex-col justify-center max-w-[42rem]">
