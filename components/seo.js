@@ -13,6 +13,7 @@ const Seo = () => {
       <meta property="og:url" content="http://wajahbersericeria.vercel.app" />
       <meta property="og:image" content="/aset/bghero.webp" />
       <meta name="google-site-verification" content="rdctdOsc3aOl2cBo_N4MCYIHXgVxIe1cERAEcns21Fs" />
+      <meta name="google-site-verification" content="NpYl3MAaRxMfs_ehxRWVs1rMU9M8OirXZaL3mgmg8v4" />
       <title>Glowing</title>
     </Head>
   );
